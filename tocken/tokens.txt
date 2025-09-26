@@ -1,0 +1,50 @@
+GET / products ? id = < NUM > HTTP / 1 . 1
+GET / products ? id = < NUM > HTTP / 1 . 1
+POST / profile ? user = < NUM > HTTP / 1 . 1
+GET / HTTP / 1 . 1
+GET / search ? q = shoes HTTP / 1 . 1
+GET / products ? id = < NUM > HTTP / 1 . 1
+POST / profile ? user = < NUM > HTTP / 1 . 1
+POST / HTTP / 1 . 1
+GET / search ? q = shoes HTTP / 1 . 1
+POST / profile ? user = < NUM > HTTP / 1 . 1
+GET / login HTTP / 1 . 1
+POST / HTTP / 1 . 1
+POST / cart HTTP / 1 . 1
+GET / cart HTTP / 1 . 1
+POST / search ? q = shoes HTTP / 1 . 1
+POST / HTTP / 1 . 1
+POST / cart HTTP / 1 . 1
+POST / search ? q = shoes HTTP / 1 . 1
+POST / login HTTP / 1 . 1
+POST / profile ? user = < NUM > HTTP / 1 . 1
+POST / HTTP / 1 . 1
+POST / login HTTP / 1 . 1
+POST / HTTP / 1 . 1
+POST / search ? q = shoes HTTP / 1 . 1
+GET / cart HTTP / 1 . 1
+GET / HTTP / 1 . 1
+POST / login HTTP / 1 . 1
+POST / HTTP / 1 . 1
+GET / cart HTTP / 1 . 1
+POST / products ? id = < NUM > HTTP / 1 . 1
+GET / cart HTTP / 1 . 1
+GET / cart HTTP / 1 . 1
+POST / products ? id = < NUM > HTTP / 1 . 1
+GET / cart HTTP / 1 . 1
+GET / products ? id = < NUM > HTTP / 1 . 1
+POST / cart HTTP / 1 . 1
+POST / HTTP / 1 . 1
+GET / products ? id = < NUM > HTTP / 1 . 1
+GET / cart HTTP / 1 . 1
+POST / products ? id = < NUM > HTTP / 1 . 1
+GET / login HTTP / 1 . 1
+GET / login HTTP / 1 . 1
+GET / products ? id = < NUM > HTTP / 1 . 1
+GET / products ? id = < NUM > HTTP / 1 . 1
+POST / cart HTTP / 1 . 1
+GET / HTTP / 1 . 1
+POST / HTTP / 1 . 1
+GET / HTTP / 1 . 1
+POST / HTTP / 1 . 1
+POST / products ? id = < NUM > HTTP / 1 . 1
